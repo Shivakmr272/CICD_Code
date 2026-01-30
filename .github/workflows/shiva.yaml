@@ -1,6 +1,6 @@
 name: Hello Shiva
 on: 
-push:
+ push:
 jobs:
   hello:
    runs-on: ubuntu-latest
